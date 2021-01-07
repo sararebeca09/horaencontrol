@@ -1,0 +1,145 @@
+    *{
+    margin:0;
+    padding:0;
+}
+    html{
+    background-color:white;
+}
+
+    body{
+    width:1024px;
+    height:768px;
+    margin:auto;
+    background-color:yellow;
+    }
+
+    header{
+    width:1024px;
+    height:250px;
+    background-color:pink;
+}
+
+    nav{
+    width:1024px;
+    height:50px;
+    background-color:green;
+}
+    main{
+    width:1024px;
+    height:468px;
+    background-color:blue;
+}
+
+    section#Banner{
+    width:768px; 
+    height:250px; 
+    background-color:#c5dfad;
+}
+
+    section#Logo{
+    width:256px;
+    height:250px;
+    float:right; 
+    background-color:red; 
+}
+
+    section#informacion{
+    width:256px; 
+    height:50px; 
+    float:left; 
+    background-color:white;
+}
+
+    section#noticias{
+    width:256px;
+    height:50px; 
+    float:right; 
+    background-color:pink;
+}
+
+    section#prevencion{
+    width:256px; 
+    height:50px; 
+    float:right; 
+    background-color:white;
+}
+
+    section#ayuda{
+    width:256px; 
+    height:50px; 
+    float:right; 
+    background-color:pink;
+}
+
+    article{
+    width:676px; 
+    height:440px; 
+    float:left; 
+    background-color:#fcf75e; 
+    padding:14px;
+}
+
+
+
+    aside{
+    width:292px; 
+    height:440px; 
+    float:right; 
+    background-color:orange; 
+    padding:14px;
+}
+
+    footer{
+    width:1024px;
+    height:50px;
+    background-color:#AED6F1;
+}
+
+    section#ro1{
+    width:40px; 
+    height:40px; 
+    float:left; 
+    padding:5px;
+}
+
+    section#ro2{
+    width:40px;
+    height:40px; 
+    float:right; 
+    padding:5px;
+}
+ 
+    section#ro3{
+    widht:40px;
+    height:40px;
+    float:center; 
+    padding:12px;
+}
+.titulo{
+color:blue;
+text-align:center; 
+font-sezi:16px;
+}
+.titulo:hover{
+color:black; 
+font-size:19px; 
+cursor:pointer;
+}
+.parrafo{
+text-align:justify;
+border:1px solid red; 
+padding:12px; 
+line-height:20px;
+}
+.parrafo:hover{
+background:#FCF3CF; 
+padding:18px; 
+color:black;
+line-height:24px;
+}
+.imagen{
+width:22%; 
+padding:15px;
+opacity:0.8; 
+border-radius:25%;
+}
